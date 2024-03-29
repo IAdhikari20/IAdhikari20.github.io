@@ -4,7 +4,9 @@ title: project 4
 description: another without an image
 img:
 importance: 3
-category: fun
+category: work
+tags: formatting images
+categories: sample-posts
 ---
 
 Every project has a beautiful feature showcase page.
